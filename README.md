@@ -4,8 +4,8 @@ This is a group project by USIU-Africa students
 1. Nicholas Gunda Kinyanjui (@speedy-insect)
 2. merhawit Tesfay(@merhawit)
 
-# My Project
+# Answers for the quize one 
 
-This repository contains quizzes and answers for data science studies.
+This repository contains quizzes and answers for the quize.
 
 👉 [Click here to view the Quiz Answers](Quiz_Answers.md)
