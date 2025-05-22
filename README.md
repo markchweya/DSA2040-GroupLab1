@@ -3,6 +3,8 @@ This is a group project by USIU-Africa students
 # Team Members
 1. Nicholas Gunda Kinyanjui (@speedy-insect) 670178
 2. merhawit Tesfay(@merhawit) 670554
+3. Faith Chakwanira (@)
+4. Mark....
 
 # Answers for the quize one 
 
