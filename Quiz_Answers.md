@@ -19,7 +19,8 @@ For this project, data was loaded using two complementary approaches:
 2. **Programmatic Loading**: For practical implementation in the cloud environment, we used a Python script with the Supabase client to insert the data from CSV files into the respective tables. This method offers better compatibility with cloud-hosted databases where server-side file access is restricted.
 
 The database schema follows the star schema design specified in the lab manual, with proper foreign key relationships between the fact and dimension tables.
-![image](https://github.com/user-attachments/assets/0da30bbb-d8b9-40a7-95a0-78bd08ed314e)
+![image](https://github.com/user-attachments/assets/ebcf8e15-f30e-4bb0-ac77-56673f923b78)
+
 
 
 ## 1. Total Revenue by Product Category
