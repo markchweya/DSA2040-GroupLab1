@@ -6,7 +6,7 @@ This is a group project by USIU-Africa students
 3. Faith Chakwanira (@)
 4. Mark Chweya (@markchweya) 669677
 
-# Answers for the quize one 
+# Answers for the quiz one 
 
 This repository contains quizzes and answers for the quiz.
 
